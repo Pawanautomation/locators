@@ -1,0 +1,5 @@
+git remote set-url origin git@github-second:pawanuk/locators.git  
+git push -u origin main
+
+git remote set-url origin git@github-first:Pawanautomation/locators.git
+git push -u origin main
